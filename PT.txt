@@ -1,0 +1,12 @@
+Sources
+Debroh Levine Gera (2003).Ancient Greek Ideas on speech, Langauages, and Civilization.ISBN978-0-19-925616-7.Retrived 31 December 2007
+Currie, Adam (1999).”The History of Robotics”.Retrived 10 september 2007.
+How do RC servos Work?http//www.remodelrevies.com/howservoswork02.shtml
+Electronics Data book(1998).http//www.circuitidears.com
+Douglas W.Jones.Restom Condit Microchip TechnologyInc.University of lowa
+pic16F877A and 16F628A Data Sheet:http://www.microchip.com/
+Douglas,V.H.”Microprocessor and Interfacing”.Tata McGraw-Hill.New Delahi;2nd Edition,1999
+Brian Kernighan,Dennis Ritchie:The C programming Language.1st .Prentice Hall 1978;ISBN 0-13-110163-3.Pre_ANSIC.2nd Prentice Hall 1998;ISBN 0-13-110362-8. ANSIC.
+Hunt.k and Primrose,E(1993).Assembly configurations of some in-parallel-actuated platforms.Journal of Robotic systems.6(6):703-720.
+http://www.youtube.com ,pic and place robot final year assignment mechatronics.
+http://www.slidshare.net/svsantoshkumar.pic-and-place-robot
