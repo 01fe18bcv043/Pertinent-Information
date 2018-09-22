@@ -10,3 +10,19 @@ Brian Kernighan,Dennis Ritchie:The C programming Language.1st .Prentice Hall 197
 Hunt.k and Primrose,E(1993).Assembly configurations of some in-parallel-actuated platforms.Journal of Robotic systems.6(6):703-720.
 http://www.youtube.com ,pic and place robot final year assignment mechatronics.
 http://www.slidshare.net/svsantoshkumar.pic-and-place-robot
+
+Information Collected of Pick and Place Robot
+
+Robotic pick and place automation speeds up the process of picking parts up and placing them in new locations, increasing production rates.
+With many end-of-arm-tooling options available, pick and place robots can be customized to fit specific production requirements. Moving large, small, heavy, or hard-to-handle products can be an easy task to automate in the factory line.
+Consistency is also a benefit of using a pick and place system. The robots can be easily programmed and tooled to provide multiple applications if required.
+An increase in output with a pick and place robot system offer long-term savings to companies. With the advancements in technology and affordability of robots, more pick and place robotic cells are being installed for automation applications.
+A pick and place robot is the one which is used to pick up an object and place it in the desired location. It can be a cylindrical robot providing movement in horizontal, vertical and rotational axes, a spherical robot providing two rotational and one linear movement, an articulate robot or a scara robot (fixed robots with 3 vertical axes rotary arms).
+
+Advantages
+
+Before moving further, let us see few reasons why pick and place robots are preferred:
+• They are faster and can get the work done in seconds compared to their human counterparts.
+• They are flexible and have the appropriate design.
+• They are accurate.
+• They increase the safety of the working environment and actually never get tired.
